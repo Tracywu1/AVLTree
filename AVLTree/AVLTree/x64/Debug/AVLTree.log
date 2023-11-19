@@ -1,0 +1,7 @@
+﻿  main.c
+D:\CProj\AVLTree\AVLTree\main.c(92,4): warning C4013: “CreatAVLTree”未定义；假设外部返回 int
+D:\CProj\AVLTree\AVLTree\main.c(100,8): error C2198: “Search”: 用于调用的参数太少
+D:\CProj\AVLTree\AVLTree\main.c(112,8): error C2198: “Insert”: 用于调用的参数太少
+D:\CProj\AVLTree\AVLTree\main.c(125,8): error C2198: “Delete”: 用于调用的参数太少
+D:\CProj\AVLTree\AVLTree\main.c(135,4): warning C4013: “Traverse_main”未定义；假设外部返回 int
+D:\CProj\AVLTree\AVLTree\main.c(143,4): error C2198: “Destroy”: 用于调用的参数太少
